@@ -13,6 +13,7 @@ A clean and responsive task management web app that helps you organize your dail
 - Dark mode toggle for better user experience.
 - Progress pie chart showing task completion percentage.
 - Search and filter tasks by status and category.
+- voice writer
 
 ## Technologies Used
 
